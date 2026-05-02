@@ -3,14 +3,17 @@ Analyzed retail sales data to uncover profit drivers and inefficiencies using Py
 
 ## 📸 Dashboard Preview
 
-### Overview
-![Overview](Images/ExecutiveOverview.png)
+### Executive Overview
+![Overview](Images/Executive_Overview.png)
 
 ### Customer Analysis
-![Customer](Images/customerAnalysis.png)
+![Customer](Images/Customer_Analysis.png)
 
 ### Product Insights
-![Product](Images/ProductAnalysis.png)
+![Product](Images/Product_Analysis.png)
 
 ### Geography Analysis
-![Geography](Images/GeographicalAnalysis.png)
+![Geography](Images/Geographical_Analysis.png)
+
+### Operations Analysis
+![Operations](Images/Operations_Analysis.png)
