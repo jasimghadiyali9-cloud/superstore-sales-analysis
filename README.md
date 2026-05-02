@@ -17,3 +17,5 @@ Analyzed retail sales data to uncover profit drivers and inefficiencies using Py
 
 ### Operations Analysis
 ![Operations](Images/Operations_Analysis.png)
+### Operations Analysis
+![Operations](Images/Operations_Analysis.png)
